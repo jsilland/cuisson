@@ -26,7 +26,7 @@ In a medium saucepan, heat the crême and the chocolate under medium heat and br
 
 Cut two kiwis in half then remove the skin using a spoon and cut into quarters. Cut each quarter in slices 2mm thick and reserve in a bowl.
 
-In a medium bowl, whisk the yolks and the sugar until mix is consistent. Add the cream to the bowl a little at a time, stirring as you pour it. Pour the liquid into a half-dozen ramequins and evenly integrate the pieces of kiwi into the ramequins, first halfway through and again at the end.
+In a medium bowl, whisk the yolks and the sugar until mix is consistent. Add the cream to the bowl a little at a time, stirring as you pour it. Pour the liquid into six ramequins and evenly integrate the pieces of kiwi into the ramequins, first halfway through and again at the end.
 
 Set the ramequins into a large cake pan and pour the hot water around them. Bake for 40 to 45 minutes. Remove from oven and refrigerate for at least 2 hours and at most 3 days.
 
