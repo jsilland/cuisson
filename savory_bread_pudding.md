@@ -10,15 +10,14 @@ Ingredients
 
 Serves 4
 
-- 3 cups diced bread
+- 3 cups bread (1 medium loaf)
 - 4 large eggs
-- 1 egg yolk
 - 1 cup heavy cream
 - 1/2 cup whole milk
 - 4 ounces chèvre cheese
 - 3 ounces prosciutto (1 thick slice)
 - 1 teaspoon fresh thyme
-- 2 shallot
+- 2 shallots
 - 4 crimini mushrooms
 - Cracked pepper, to taste
 - 1/4 cup shredded parmesan
@@ -26,11 +25,9 @@ Serves 4
 Directions
 ----------
 
-Preheat the oven to 375℉.
+Preheat the oven to 375℉. Dice the bread in medium to large cubes, then toast in oven for 10 minutes. Take out of oven and let rest. Leave oven on at the same temperature.
 
-Toast bread cubes in oven for 10 minutes, stir halfway through. Take out of oven and let rest. Leave oven on at the same temperature.
-
-In a bowl, mix together the eggs, milk, and cream and whisk thorougly until the mixture is homogeneous. Mince the shallots, slice the mushrooms.
+In a bowl, mix together the eggs, milk, and cream. Whisk thorougly until the mixture is homogeneous. Mince the shallots, slice the mushrooms and dice the prosciutto in small to medium pieces.
 
 In a 9x9 square baking pan, toss together bread cubes, prosciutto, shallot, mushrooms, thyme, and pepper. Crumble the chèvre and stir it in, then pour the egg mixture over the bread cubes. Garnish the top with the schredded parmesan
 
