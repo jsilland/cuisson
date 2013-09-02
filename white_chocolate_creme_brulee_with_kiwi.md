@@ -22,7 +22,7 @@ Directions
 
 Preheat the oven to 325℉.
 
-In a medium saucepan, heat the crême and the chocolate under medium heat and bring to a boil. Make sure the chocolate is fully melted into the crême. Remove and let rest for 15 minutes.
+In a medium saucepan, heat the crême under medium heat. Break the chocolate into small chunks and drop them into the heating crême. Slowly bring to a boil and make sure the chocolate is fully melted into the crême. Remove and let rest for 15 minutes.
 
 Cut two kiwis in half then remove the skin using a spoon and cut into quarters. Cut each quarter in slices 2mm thick and reserve in a bowl.
 
