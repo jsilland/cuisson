@@ -28,6 +28,6 @@ Cut two kiwis in half then remove the skin using a spoon and cut into quarters. 
 
 In a medium bowl, whisk the yolks and the sugar until mix is consistent. Add the cream to the bowl a little at a time, stirring as you pour it. Pour the liquid into six ramequins and evenly integrate the pieces of kiwi into the ramequins, first halfway through and again at the end.
 
-Set the ramequins into a large cake pan and pour the hot water around them. Bake for 40 to 45 minutes. Remove from oven and refrigerate for at least 2 hours and at most 3 days.
+Set the ramequins into a large cake pan and pour the hot water around them. Bake for 70 to 75 minutes. Remove from oven and refrigerate for at least 2 hours and at most 3 days.
 
 At least 30 minutes before serving, remove the ramequins from the fridge. Cut the last kiwi in half, remove the skin, then cut 6 slices, 2mm each. Sprinkle sugar on top of the ramequins, then torch lightly until surface is brown. Let set for another 5 minutes, then add one kiwi slice on top of each ramequin.
