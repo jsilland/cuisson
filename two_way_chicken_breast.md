@@ -12,7 +12,7 @@ Serves 2
 
 - 1 large boneless chicken breast, skin on
 - 2 cloves garlic
-- 1/2 lb. fresh green brans
+- 1/2 lb. fresh green beans
 - 1/2 lb. round tiny yellow potatoes 
 - Olive oil
 - Butter
