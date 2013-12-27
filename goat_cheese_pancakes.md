@@ -2,7 +2,7 @@
 layout: page
 title: Goat cheese pancakes with spinach and tomatoes
 image:
-  feature: nope.jpg
+  feature: goat_cheese_pancakes.jpg
 ---
 
 Ingredients
