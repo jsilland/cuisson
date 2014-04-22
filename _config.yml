@@ -2,4 +2,4 @@ name: Julien's kitchen
 pygments: true
 logo: jk-logo.png
 url: http://jsilland.github.io/recipes
-
+markdown: kramdown
