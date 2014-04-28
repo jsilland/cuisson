@@ -2,7 +2,7 @@
 layout: page
 title: Sablé biscuits toffee brittle
 image:
-  feature: savory_bread_pudding.jpg
+  feature: sable_biscuit_toffee_brittle.jpg
 ---
 
 Description
