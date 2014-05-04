@@ -2,7 +2,7 @@ title:            The Kitchen
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://jekyll.gtat.me
+url: http://soliton.io/recipes
 
 # Owner/author information
 owner:
