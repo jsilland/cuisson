@@ -1,6 +1,7 @@
 ---
 layout: page
 title: White chocolate crême brulée with kiwi
+description: "A French classic, this recipe incorporates two novel ingredients: the white chocolate to bring some extra taste and the kiwi for its acidity and color. Looking just the same as a regular crême brulée on the surface, this dessert is guaranteed to surprise your guests after their first spoonful. The execution demands time but may be prepared well in advance and caramelized at the last minute."
 image:
   feature: creme_brulee.jpg
 ---
@@ -24,7 +25,7 @@ Preheat the oven to 325℉.
 
 In a medium saucepan, heat the crême under medium heat. Break the chocolate into small chunks and drop them into the heating crême. Slowly bring to a boil and make sure the chocolate is fully melted into the crême. Remove and let rest for 15 minutes.
 
-Cut two kiwis in half then remove the skin using a spoon and cut into quarters. Cut each quarter in slices 2mm thick and reserve in a bowl.
+Cut two kiwis in half then peel them from the inside and cut into quarters. Cut each quarter in slices 2mm thick and reserve in a bowl.
 
 In a medium bowl, whisk the yolks and the sugar until mix is consistent. Add the cream to the bowl a little at a time, stirring as you pour it. Pour the liquid into six ramequins and evenly integrate the pieces of kiwi into the ramequins, first halfway through and again at the end.
 

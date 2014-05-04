@@ -1,5 +1,44 @@
-name: Julien's kitchen
-pygments: true
-logo: jk-logo.png
-url: http://jsilland.github.io/recipes
-markdown: kramdown
+title:            The Kitchen
+tagline:          A beautiful theme.
+description:      Describe your website.
+#Comment out url when working locally to resolve base urls correctly
+#url: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Julien Silland
+  avatar:         https://avatars1.githubusercontent.com/u/2145000?s=460
+  email:          julien@soliton.io
+  twitter:        jsilland  
+  github:         jsilland
+  instagram:      jsilland
+  location:       "San Francisco, CA"
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+timezone:    America/Los_Angeles
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
