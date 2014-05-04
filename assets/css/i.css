@@ -452,31 +452,31 @@ input {
 }
 
 .homepage #sable_biscuits_toffee_brittle {
-  background-image: url('/images/sable_biscuit_toffee_brittle.jpg');
+  background-image: url('../../images/sable_biscuit_toffee_brittle.jpg');
   background-size: cover;
   background-position: center; 
 }
 
 .homepage #savory_bread_pudding {
-  background-image: url('/images/savory_bread_pudding.jpg');
+  background-image: url('../..//images/savory_bread_pudding.jpg');
   background-size: cover;
   background-position: center; 
 }
 
 .homepage #white_chocolate_creme_brulee_with_kiwi {
-  background-image: url('/images/creme_brulee.jpg');
+  background-image: url('../..//images/creme_brulee.jpg');
   background-size: cover;
   background-position: center; 
 }
 
 .homepage #goat_cheese_pancakes {
-  background-image: url('/images/goat_cheese_pancakes.jpg');
+  background-image: url('../../images/goat_cheese_pancakes.jpg');
   background-size: cover;
   background-position: center; 
 }
 
 .homepage #nobg {
-  background-image: url('/images/nope.jpg');
+  background-image: url('../..//images/nope.jpg');
   background-size: cover;
   background-position: center; 
 }
