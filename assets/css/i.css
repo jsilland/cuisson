@@ -451,6 +451,12 @@ input {
   text-align: center;
 }
 
+.homepage #candied_salmon_mint_couscous {
+  background-image: url('../../images/candied_salmon_mint_couscous.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
 .homepage #sable_biscuits_toffee_brittle {
   background-image: url('../../images/sable_biscuit_toffee_brittle.jpg');
   background-size: cover;
@@ -621,7 +627,7 @@ header.site-header nav ul li a:hover {
 .article .featured-image {
   vertical-align: middle;
   min-height: 360px;
-  height: 50vh;
+  height: 30vh;
   width: 100%;
   max-height: 800px;
   background-position: center center;
