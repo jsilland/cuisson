@@ -2,7 +2,7 @@
 layout: page
 title: Two-way chicken breasts
 image:
-  feature: nope.jpg
+  feature: two_way_chicken.jpg
 ---
 
 Ingredients

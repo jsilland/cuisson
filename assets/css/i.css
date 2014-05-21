@@ -481,6 +481,12 @@ input {
   background-position: center; 
 }
 
+.homepage #two_way_chicken {
+  background-image: url('../../images/two_way_chicken.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
 .homepage #nobg {
   background-image: url('../..//images/nope.jpg');
   background-size: cover;
