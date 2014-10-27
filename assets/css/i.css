@@ -451,6 +451,12 @@ input {
   text-align: center;
 }
 
+.homepage #strawberry_jam {
+  background-image: url('../../images/strawberry_jam.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
 .homepage #candied_salmon_mint_couscous {
   background-image: url('../../images/candied_salmon_mint_couscous.jpg');
   background-size: cover;
