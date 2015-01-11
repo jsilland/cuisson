@@ -28,9 +28,9 @@ Take the tuna out of the fridge and let rest at room temperature for 15 minutes.
 Wash the cucumber and peel it partially lengthwise. Using a mandoline, slice the cucumber at a shallow angle into pieces about 3 to 4 millimeters thick. Cut each slice lengthwise to form filaments about 2 or 3 millimeters wide. Reserve in a bowl.
 
 <ul class='kwicks kwicks-horizontal'>
-  <li><div style="background:url(/images/mi_cuit/cucumber_0.png) center no-repeat;background-size: cover"></div></li>
-  <li><div style="background:url(/images/mi_cuit/cucumber_1.png) center no-repeat;background-size: cover"></div></li>
-  <li><div style="background:url(/images/mi_cuit/cucumber_2.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/cucumber_0.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/cucumber_1.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/cucumber_2.png) center no-repeat;background-size: cover"></div></li>
 </ul>
 
 Cut the pineapple in slices about 1 centimeter thick. Using round cookie cutters, remove the core and skin off of each slice.
@@ -42,9 +42,9 @@ In a cast iron grill pan, bring two tablespoons of olive oil to its smoking poin
  Melt butter in a medium saucepan under medium heat. Once melted, throw in the cucumber spaghetti, then salt and pepper to taste. Sauté the spaghetti in the saucepan under low to medium heat for 3 to 4 minutes.
 
 <ul class='kwicks kwicks-horizontal'>
-  <li><div style="background:url(/images/mi_cuit/pineapple.png) center no-repeat;background-size: cover"></div></li>
-  <li><div style="background:url(/images/mi_cuit/sesame_seeds.png) center no-repeat;background-size: cover"></div></li>
-  <li><div style="background:url(/images/mi_cuit/cucumber_saucepan.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/pineapple.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/sesame_seeds.png) center no-repeat;background-size: cover"></div></li>
+  <li><div style="background:url(/cuisson/images/mi_cuit/cucumber_saucepan.png) center no-repeat;background-size: cover"></div></li>
 </ul>
 
 
