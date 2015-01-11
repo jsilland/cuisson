@@ -451,6 +451,12 @@ input {
   text-align: center;
 }
 
+.homepage #mi_cuit_tuna {
+  background-image: url('../../images/mi_cuit/mi_cuit.png');
+  background-size: cover;
+  background-position: center; 
+}
+
 .homepage #strawberry_jam {
   background-image: url('../../images/strawberry_jam.jpg');
   background-size: cover;
@@ -828,9 +834,8 @@ header.site-header nav ul li a:hover {
   height: auto;
   display: block;
   margin: 33px auto;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
+  border: 1px solid #eee;
+  padding: 5px;
 }
 .post ul {
   display: block;
